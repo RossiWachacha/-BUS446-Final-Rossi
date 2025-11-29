@@ -2,7 +2,7 @@
 Rossi Wachacha BUS 446 Final Team Clash 
 ## 1. Data & Method
 
-### 📁 Datasets Used in This Project
+### Datasets Used in This Project
 
 This GitHub repository includes all datasets used in the analysis:
 - CPIHistoricalForecast.xlsx  
@@ -14,7 +14,7 @@ Additional supporting files included:
 - Report on Food Inflation Dynamics.docx  
 - Report on Food Inflation Dynamics slides.pptx
 
-### 🧪 Methodology Summary
+### Methodology Summary
 - Cleaned and organized CPI and PPI data in Excel  
 - Compared forecast values to actual results  
 - Calculated percentage differences  
@@ -23,7 +23,7 @@ Additional supporting files included:
 
 ## 2. Visualization & Final Findings
 
-### 📊 Visualizations Included
+### Visualizations Included
 Visuals and charts in this repository:
 - CPI forecast vs. actual charts  
 - PPI forecast vs. actual charts  
@@ -35,7 +35,7 @@ These files contain visuals:
 - Charts for BUS 446 project.docx  
 - Report on Food Inflation Dynamics slides.pptx  
 
-### 🔍 Key Findings
+### Key Findings
 1. Some food categories showed higher actual inflation than forecasts predicted.  
 2. Other categories aligned closely with forecasted values.  
 3. CPI and PPI trends displayed strong correlation in several food-related categories.  
@@ -43,11 +43,11 @@ These files contain visuals:
 
 ## 3. Business Case Report
 
-### 📄 Files Included
+### Files Included
 - Report on Food Inflation Dynamics.docx  
 - Report on Food Inflation Dynamics slides.pptx  
 
-### 📝 Report Summary
+### Report Summary
 - **Business Case:** Understanding forecast accuracy helps businesses and policymakers anticipate inflation impacts.  
 - **Objectives:** Compare forecast vs. actual CPI/PPI results and analyze inflation behavior in food categories.  
 - **Methodology:** Excel-based cleaning, percent-change calculations, visualizations, and trend interpretation.  
