@@ -35,7 +35,7 @@ These files contain visuals:
 - Charts for BUS 446 project.docx  
 - Report on Food Inflation Dynamics slides.pptx  
 
-### 🔍 Key Findings (Summary)
+### 🔍 Key Findings
 1. Some food categories showed higher actual inflation than forecasts predicted.  
 2. Other categories aligned closely with forecasted values.  
 3. CPI and PPI trends displayed strong correlation in several food-related categories.  
